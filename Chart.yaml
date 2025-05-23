@@ -1,0 +1,5 @@
+apiVersion: v2
+name: metrics-app
+description: Helm chart to deploy metrics-app
+version: 0.1.0
+appVersion: "1.4"
